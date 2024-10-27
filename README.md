@@ -2,9 +2,15 @@
 
 ###
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 <h2 align="left">About me</h2>
 
 ###
+
+
 
 <p align="left">• 🎓 I'm graduate of Computer Science field at the University of Piraeus(UniPi) in Greece.<br>• 🎓 Currently studying for my Master's Degree in Informatics at University of Piraeus.<br>• ⚡ In my free time, I solve online programming problems and read tech articles.<br>• 💬 Feel free to reach out to me for consulting or just for some interesting discussion.<br>• 📧 You can shoot me an email at tassos0320@gmail.com! I'll try to respond as soon as I can.</p>
 
@@ -65,3 +71,16 @@
 </div>
 
 ###
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnastasisKalligeros&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnastasisKalligeros&show_icons=true&locale=en" alt="AnastasisKalligeros" /></p>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasisKalligeros&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
