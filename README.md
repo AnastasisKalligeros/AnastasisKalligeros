@@ -12,7 +12,7 @@
 
 
 
-<p align="left">• 🎓 I'm graduate of Computer Science field at the University of Piraeus (UniPi) in Greece.<br>• 🎓 Currently studying for my Master's Degree in Informatics at University of Piraeus.<br>• ⚡ In my free time, I solve online programming problems and read tech articles.<br>• 💬 Feel free to reach out to me for consulting or just for some interesting discussion.<br>• 📧 You can shoot me an email at tassos0320@gmail.com! I'll try to respond as soon as I can.</p>
+<p align="left">• 🎓 I'm graduate of Computer Science field at the University of Piraeus (UniPi) in Greece.<br>• 🎓 Currently studying for my Master's Degree in Informatics at University of Piraeus.<br>• 👨‍💻 All of my projects are available at <a href="https://github.com/AnastasisKalligeros?tab=repositories">my profile</a> <br>• ⚡ In my free time, I solve online programming problems and read tech articles.<br>• 💬 Feel free to reach out to me for consulting or just for some interesting discussion.<br>• 📧 You can shoot me an email at tassos0320@gmail.com! I'll try to respond as soon as I can.</p>
 
 ###
 
