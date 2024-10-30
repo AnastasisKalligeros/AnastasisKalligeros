@@ -88,20 +88,17 @@
 ###
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnastasisKalligeros&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnastasisKalligeros&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnastasisKalligeros&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> </div> 
+  <img src="https://github-readme-stats.vercel.app/api?username=AnastasisKalligeros&show_icons=true&count_private=true&theme=dark&hide_border=false&order=1" height="150" alt="stats graph"  /> 
+</div> 
 
 ---
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnastasisKalligeros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnastasisKalligeros&layout=compact&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 
-###
 
 
