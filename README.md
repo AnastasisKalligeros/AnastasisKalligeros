@@ -98,7 +98,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnastasisKalligeros&layout=compact&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasisKalligeros&theme=dark&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
